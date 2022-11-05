@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.gs": "javascript",
+    "string.h": "c",
+    "dungeon_map.h": "c",
+    "drawing.h": "c",
+    "board_tiles.h": "c"
+  }
+}
